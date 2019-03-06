@@ -1,0 +1,138 @@
+body{
+	background: #d67283;
+	color: #3e4d62;
+}
+h1{
+	transform: translate(-0%,-150%);
+	display: block;
+	color: #233041;
+	font-size: 35px;
+}
+.loginbox{
+	width: 800px;
+	height: 600px;
+	background: #6fe1cb;
+	background: linear-gradient(90deg, #6ee0cb 50%, #233041 50%);
+	color: #fff;
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 70px 30px;
+	border-radius: 10px;
+	box-shadow: 2px 2px #6c3a4b;
+}
+.signup{
+	outline: none;
+	transform: translate(650%,-300%);
+	background: #4c5d72;
+	border:	none;
+	padding: 10px;
+	color: #727f90;
+	width: 100px;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	cursor: pointer;  
+}
+.signin{
+	outline: none;
+	transform: translate(450%,-300%);
+	background: #6ee0cb;
+	border:	none;
+	padding: 10px;
+	color: #fff;
+	width: 100px;
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;  
+	cursor: pointer;
+}
+.signupreg{
+	outline: none;
+	transform: translate(650%,-100%);
+	background: #4c5d72;
+	border:	none;
+	padding: 10px;
+	color: #727f90;
+	width: 100px;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	cursor: pointer;  
+}
+.signinreg{
+	outline: none;
+	transform: translate(450%,-100%);
+	background: #6ee0cb;
+	border:	none;
+	padding: 10px;
+	color: #fff;
+	width: 100px;
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;  
+	cursor: pointer;
+}
+.register{
+	transform: translate(60%,5%);
+	display: block;
+}
+h1{
+	margin-bottom: 15px;
+}
+label{
+	font-size: 12px;
+}
+.register input[type="text"], input[type="Password"]{
+	border: none;
+	width: 35%;
+	margin-bottom: 12px;
+	font-size: 1px;
+	border-bottom: 1px solid #3e4d62;
+	background: transparent;
+	outline: none;
+	height: 40px;
+	color: #fff;
+	font-size: 12px;
+}
+.register input[type="radio"]{
+	background: #6ee0cb;
+}
+.register a{
+	color: #6ee0cb;
+}
+.register button{
+	background: #6ee0cb;
+	border: none;
+	padding: 10px;
+	color: #fff;
+	width: 100px;
+	border-radius: 20px;
+	cursor: pointer;
+	box-shadow: 2px 2px black; 
+}
+.Login{
+	transform: translate(60%,5%);
+}
+.Login input[type="text"], input[type="Password"]{
+	border: none;
+	width: 35%;
+	margin-bottom: 12px;
+	font-size: 1px;
+	border-bottom: 1px solid #3e4d62;
+	background: transparent;
+	outline: none;
+	height: 40px;
+	color: #fff;
+	font-size: 12px;
+}
+.Login input[type="radio"]{
+	background: #6ee0cb;
+}
+.Login button{
+	background: #6ee0cb;
+	border: none;
+	padding: 10px;
+	color: #fff;
+	width: 100px;
+	border-radius: 20px;
+	cursor: pointer;
+}
