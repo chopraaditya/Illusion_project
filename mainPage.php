@@ -16,7 +16,7 @@
     <a href="#compose"><button id="compose">Compose</button></a>
     <a href="#inbox">Inbox</a>
     <a href="#sent">Sent Mails</a>
-    <a href="#thrash">Thrash</a>
+    <a href="#thrash">Trash</a>
   </div>
 
   <div id="myModal" class="modal">
@@ -34,8 +34,6 @@
     </div>
 
   </div>
-
-
 
 
     <textarea id="transcription" readonly="readonly" ></textarea>
