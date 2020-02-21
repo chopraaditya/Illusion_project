@@ -84,9 +84,12 @@
 
 
 
+<<<<<<< Updated upstream
 	
 
 
+=======
+>>>>>>> Stashed changes
    </body>
 </html>
 
@@ -112,3 +115,7 @@
 		
 </script>
 
+<<<<<<< Updated upstream
+=======
+ </script>
+>>>>>>> Stashed changes
