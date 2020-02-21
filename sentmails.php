@@ -83,35 +83,27 @@
 
 
 
-
-
-	
-
-
-
    </body>
 </html>
 
 
 <script type="text/javascript">
-      var modal = document.getElementById('myModal');
-	  var span = document.getElementsByClassName("close")[0];
-	  var create = document.getElementById("compose");
-	 //var read = document.querySelector(".read");
-	  //When the user clicks the button, open the modal 
-		create.onclick = function() {
-	    	modal.style.display = "block";
-		}
+  var modal = document.getElementById('myModal');
+  var span = document.getElementsByClassName("close")[0];
+  var create = document.getElementById("compose");
+ //var read = document.querySelector(".read");
+  //When the user clicks the button, open the modal 
+	create.onclick = function() {
+    	modal.style.display = "block";
+	}
 
-	// When the user clicks on <span> (x), close the modal
-		span.onclick = function() {
-	    	modal.style.display = "none";
-		}
+// When the user clicks on <span> (x), close the modal
+	span.onclick = function() {
+    	modal.style.display = "none";
+	}
 
-		// read.onclick = function(){
-		// 	modal.style.display = "block";
-		// }
+	// read.onclick = function(){
+	// 	modal.style.display = "block";
+	// }
 
-		
-
-	    </script>
+</script>
