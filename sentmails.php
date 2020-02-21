@@ -85,7 +85,15 @@
 
 
 
-	<script type="text/javascript">
+	
+
+
+
+   </body>
+</html>
+
+
+<script type="text/javascript">
       var modal = document.getElementById('myModal');
 	  var span = document.getElementsByClassName("close")[0];
 	  var create = document.getElementById("compose");
@@ -107,9 +115,3 @@
 		
 
 	    </script>
-
-
-
-   </body>
-</html>
-
