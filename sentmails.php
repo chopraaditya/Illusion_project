@@ -85,9 +85,12 @@
 
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	
 
 
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
    </body>
@@ -111,11 +114,13 @@
 		// read.onclick = function(){
 		// 	modal.style.display = "block";
 		// }
-
 		
 </script>
+<<<<<<< Updated upstream
 
 <<<<<<< Updated upstream
 =======
  </script>
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
