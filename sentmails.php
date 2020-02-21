@@ -32,6 +32,7 @@
 	    	<a href="#trash">Trash</a>
 	    </div>
 	</aside>
+
 	<!-- Displays emails to user -->
 	<center>
 		<table class="mails" cellpadding="0" id="myTable" name="table">
@@ -83,9 +84,13 @@
 
 
 
+	
 
 
-	<script type="text/javascript">
+   </body>
+</html>
+
+<script type="text/javascript">
       var modal = document.getElementById('myModal');
 	  var span = document.getElementsByClassName("close")[0];
 	  var create = document.getElementById("compose");
@@ -105,11 +110,5 @@
 		// }
 
 		
-
-	    </script>
-
-
-
-   </body>
-</html>
+</script>
 
