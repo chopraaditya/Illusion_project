@@ -12,7 +12,7 @@
 	<title>Read Mails</title>
 	<style type="text/css">
 		button{
-			margin-left:550px;
+			margin-left:500px;
 		}
 	</style>
 </head>
