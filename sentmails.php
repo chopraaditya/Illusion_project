@@ -23,6 +23,7 @@
 			<h2>Sent Mails</h2>
 		</div><hr width="100%">
 	</header>
+	<!-- Side navigation bar -->
 	<aside>
 		<div class="sidenav">
 	  		<a href="#compose"><button id="compose">Compose</button></a>
@@ -31,6 +32,7 @@
 	    	<a href="#trash">Trash</a>
 	    </div>
 	</aside>
+	<!-- Displays emails to user -->
 	<center>
 		<table class="mails" cellpadding="0" id="myTable" name="table">
 			<!-- <tr>
