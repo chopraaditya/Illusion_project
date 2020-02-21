@@ -64,6 +64,8 @@
 		</table>
 		<!-- <button onclick="refresh()">Refresh</button> -->
 	</center>
+
+	<!-- Defines compose email format -->
 		<div id="myModal" class="modal">
 		  <!-- Modal content -->
 		  <div class="modal-content">
@@ -80,8 +82,6 @@
 		    </div>
 1
  	 </div>
-
-
 
    </body>
 </html>
